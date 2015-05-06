@@ -3,6 +3,6 @@ This is the application and source code folder for the project "Hard Drive Relia
 
 There is a short video demo here https://youtu.be/h8d5mz2V-hY. You can also play it:
 
-1. Choose your platform, download all the files in the folder. 
+1. Go to the folder Hard_disk_visualization, choose your platform folder and download all the files in that folder. 
 2. Decompress the out_fail.csv from the data folder.
 3. Run the executable file and have fun!
